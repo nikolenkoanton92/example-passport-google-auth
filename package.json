@@ -1,0 +1,35 @@
+{
+  "name": "example-passport-google-auth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolenkoanton92/example-passport-google-auth.git"
+  },
+  "keywords": [
+    "google",
+    "auth",
+    "oauth",
+    "passport",
+    "js"
+  ],
+  "author": "Anton Nikoleno <nikolenkoanton92@gmail.com> (http://antonnikolenko.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolenkoanton92/example-passport-google-auth/issues"
+  },
+  "homepage": "https://github.com/nikolenkoanton92/example-passport-google-auth#readme",
+  "dependencies": {
+    "cmdenv": "0.3.0",
+    "cookie-parser": "1.4.0",
+    "express": "4.13.3",
+    "express-session": "1.12.1",
+    "jade": "1.11.0",
+    "passport": "0.3.2",
+    "passport-google-oauth": "0.2.0"
+  }
+}
